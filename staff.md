@@ -15,12 +15,43 @@ Staff information is stored in the `_staffers` directory and rendered according 
 {{ staffer }}
 {% endfor %}
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-{% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
-## Teaching Assistants
+{% assign hta = site.staffers | where: 'role', 'HTA' %}
+{% assign num_hta = hta | size %}
+{% if num_hta != 0 %}
+## HTA
 
-{% for staffer in teaching_assistants %}
+{% for staffer in hta %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
+
+{% assign uta = site.staffers | where: 'role', 'UTA' %}
+{% assign num_uta = uta | size %}
+{% if num_uta != 0 %}
+## UTA 
+
+{% for staffer in uta %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
+
+{% assign uta_sta = site.staffers | where: 'role', 'UTA/STA' %}
+{% assign num_uta_sta = uta_sta | size %}
+{% if num_uta_sta != 0 %}
+## UTA/STA 
+
+{% for staffer in uta_sta %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
+
+
+{% assign sta = site.staffers | where: 'role', 'STA' %}
+{% assign num_sta = sta | size %}
+{% if num_sta != 0 %}
+## STA 
+
+{% for staffer in sta %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
