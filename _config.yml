@@ -17,8 +17,8 @@ title: Just the Class
 tagline: A Jekyll template for course websites
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Kevin Lin
-baseurl: '/courses/csci1710' # the subpath of your site, e.g. /blog
-url: 'https://cs.brown.edu' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/CSCI1710_2022Website' # the subpath of your site, e.g. /blog
+url: 'https://anirudhnarsipur.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
