@@ -1,5 +1,5 @@
 ---
-name: Pun Boonchouchouy 
+name: Phunn Boonchouchouy
 role: HTA
 # email: me@example.com
 # website: https://kevinl.info
