@@ -1,0 +1,6 @@
+#!/bin/bash
+# usage: ./deploy rlewis13
+# must be used from a computer with an ssl certificate attached to the username given as argument
+
+bundle exec jekyll build
+scp -r _site/* "$1"@ssh.cs.brown.edu:/web/cs/web/courses/csci1710

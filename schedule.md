@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Schedule
-description: The weekly event schedule.
+title: Assignments
+description: All the assignments
 ---
 
-# Weekly Schedule
-
+# Assignments
+<!-- 
 {% for schedule in site.schedules %}
 {{ schedule }}
-{% endfor %}
+{% endfor %} -->

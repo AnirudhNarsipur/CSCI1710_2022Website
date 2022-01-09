@@ -19,7 +19,7 @@ description:
 author: Kevin Lin
 baseurl: '/CSCI1710_2022Website/' # the subpath of your site, e.g. /blog
 url: 'https://anirudhnarsipur.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "deploy"]
 
 # Theme settings
 remote_theme: pmarsceill/just-the-docs@v0.3.3
@@ -28,8 +28,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  # Edstem:
-  #   - 'https://kevinl.info'
+  Edstem:
+    - 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
   # Gradescope:
   #   - 'https://github.com/kevinlin1/just-the-class'
 footer_content:
