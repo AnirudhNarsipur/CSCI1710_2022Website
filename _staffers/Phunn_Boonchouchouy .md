@@ -6,4 +6,4 @@ role: HTA
 # photo: kevin.jpg
 ---
 
-I like teaching Computer Science!
+I'm a senior from Thailand, concentrating in CS and Econ. I love listening to music and watching series!
