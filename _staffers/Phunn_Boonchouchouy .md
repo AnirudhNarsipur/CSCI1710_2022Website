@@ -1,7 +1,7 @@
 ---
 name: Phunn Boonchouchouy
 role: HTA
-# email: me@example.com
+email: pbooncho@cs.brown.edu
 # website: https://kevinl.info
 # photo: kevin.jpg
 ---
