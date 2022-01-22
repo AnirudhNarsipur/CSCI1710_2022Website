@@ -1,7 +1,7 @@
 ---
 name: Tim Nelson
 role: Instructor
-# email: me@example.com
+email: tbn@cs.brown.edu
 # website: https://kevinl.info
 # photo: kevin.jpg
 ---
