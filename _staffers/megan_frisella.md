@@ -1,9 +1,9 @@
 ---
 name: Megan Frisella
 role: HTA
-# email: me@example.com
+# email: mfrisell@cs.brown.edu
 # website: https://kevinl.info
 # photo: kevin.jpg
 ---
 
-I like teaching Computer Science!
+I study Math and Computer Science at Brown. Interests include formal methods + cryptography, frisbee, and crocheting! 
