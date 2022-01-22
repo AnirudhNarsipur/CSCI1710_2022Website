@@ -5,12 +5,16 @@ description: A listing of all the course staff members.
 ---
 
 # Staff
-<div style="text-align: justify">
-The calendar below lists office and TA hours. Contact all TAs and Professor at cs1710tas@lists.brown.edu. Contact only the Head TAs and Professor at cs1710headtas@lists.brown.edu. However in most cases it is preferable if you post a private message on Edstem.
+<div style="text-align: left">
+The calendar below lists office and TA hours. 
+
+Contact all TAs and Professor at cs1710tas@lists.brown.edu. 
+
+Contact only the Head TAs and Professor at cs1710headtas@lists.brown.edu. However in most cases it is preferable if you post a private message on Edstem.
 </div>
 
 <div class="hours-calendar">
-  <iframe src="https://calendar.google.com/calendar/embed?src=c_nr4j9tk5p8kpbu1ajubr6d8ne4%40group.calendar.google.com&ctz=Asia%2FKolkata" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_nr4j9tk5p8kpbu1ajubr6d8ne4%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 </div>
 
 ## Instructors
