@@ -10,7 +10,7 @@ The calendar below lists office and TA hours.
 
 Contact all TAs and Professor at <a href="mailto:cs1710tas@lists.brown.edu">cs1710tas@lists.brown.edu</a>.
 
-Contact only the Head TAs and Professor at cs1710headtas@lists.brown.edu. However in most cases it is preferable if you post a private message on Edstem.
+Contact only the Head TAs and Professor at <a href="mailto:cs1710headtas@lists.brown.edu">cs1710headtas@lists.brown.edu</a>. However in most cases it is preferable if you post a private message on Edstem.
 </div>
 
 <div class="hours-calendar">
