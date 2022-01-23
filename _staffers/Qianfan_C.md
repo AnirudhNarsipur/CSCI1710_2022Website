@@ -1,9 +1,9 @@
 ---
 name: Qianfan Chen
 role: UTA
-# email: me@example.com
+email: qchen29@cs.brown.edu
 # website: https://kevinl.info
-# photo: kevin.jpg
+photo: qianfan_c.jpg
 ---
 
-I like teaching Computer Science!
+I am a senior concentrating in Math-CS. I love formal methods, graph theory, traveling, and photography.
