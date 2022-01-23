@@ -3,7 +3,6 @@ name: Anirudh Narsipur
 role: HTA
 # email: me@example.com
 # website: https://kevinl.info
-# photo: kevin.jpg
+photo: anirudh_n.jpg
 ---
-
-I like teaching Computer Science!
+I'm a mysterious person but some say I study Computational Biology and like sci-fi.
