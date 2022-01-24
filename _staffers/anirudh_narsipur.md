@@ -1,7 +1,7 @@
 ---
 name: Anirudh Narsipur
 role: HTA
-# email: me@example.com
+email: anarsipu@cs.brown.edu
 # website: https://kevinl.info
 photo: anirudh_n.jpg
 ---
