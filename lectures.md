@@ -5,7 +5,9 @@ description: Listing of course modules and topics.
 ---
 
 # Lectures
+Lectures will be hybrid during shopping period. You can either come to CIT 165 or join via [Zoom](#). Depending on various factors we may or may not offer a hybrid option post shopping period (we would transition to fully in person but lecture recordings will be available). 
 
-<!-- {% for module in site.modules %}
+
+{% for module in site.modules %}
 {{ module }}
-{% endfor %} -->
+{% endfor %}
