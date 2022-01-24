@@ -1,9 +1,9 @@
 ---
 name: Elijah Rivera
 role: GTA
-# email: me@example.com
+email: eriver14@cs.brown.edu
 # website: https://kevinl.info
-# photo: kevin.jpg
+photo: elijah_r.jpg
 ---
 
-I like teaching Computer Science!
+I'm a PhD student working at the intersection of Computer Science Education (CSEd) and Programming Languages (PL). My research interests include program synthesis, formal verifcation/testing, and student development of abstractions and plans. In my spare time I play music, play League, and help out at my church.
