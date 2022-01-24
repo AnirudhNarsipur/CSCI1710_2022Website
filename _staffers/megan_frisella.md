@@ -2,6 +2,7 @@
 name: Megan Frisella
 role: HTA
 email: mfrisell@cs.brown.edu
+pronouns: she/her/hers
 photo: megan_f.jpg
 ---
 
