@@ -34,6 +34,16 @@ Contact only the Head TAs and Professor at <a href="mailto:cs1710headtas@lists.b
 {% endfor %}
 {% endif %}
 
+{% assign gta = site.staffers | where: 'role', 'GTA' | sort: 'name' %}
+{% assign num_gta = gta | size %}
+{% if num_gta != 0 %}
+## GTA 
+
+{% for staffer in gta %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
+
 {% assign uta = site.staffers | where: 'role', 'UTA' | sort: 'name' %}
 {% assign num_uta = uta | size %}
 {% if num_uta != 0 %}

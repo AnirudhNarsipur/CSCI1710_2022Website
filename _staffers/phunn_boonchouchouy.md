@@ -2,6 +2,7 @@
 name: Phunn Boonchouchouy
 role: HTA
 email: pbooncho@cs.brown.edu
+pronouns: he/him/his
 # website: https://kevinl.info
 photo: phunn_b.jpg
 ---
