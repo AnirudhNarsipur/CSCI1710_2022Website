@@ -7,12 +7,10 @@ description: >-
 ---
 
 # Resources
-{:.no_toc}
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
+- Policies
+    * Collaboration Policy
+- Guides
+- Important Links
+    * EdStem
+    * SignMeUp
+    * CS Health & Wellness
