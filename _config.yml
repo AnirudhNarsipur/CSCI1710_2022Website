@@ -17,7 +17,7 @@ title: CSCI 1710
 tagline: Logic for Systems
 description: 
 author: Kevin Lin
-baseurl: '/2022/' # the subpath of your site, e.g. /blog
+baseurl: '2022/' # the subpath of your site, e.g. /blog
 url: 'https://csci1710.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md", "deploy"]
 
