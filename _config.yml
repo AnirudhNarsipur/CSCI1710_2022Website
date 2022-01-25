@@ -30,8 +30,8 @@ permalink: pretty
 aux_links:
   Edstem:
     - 'https://edstem.org/us/courses/15791/discussion/'
-  # Gradescope:
-  #   - 'https://github.com/kevinlin1/just-the-class'
+  Gradescope:
+    - 'https://www.gradescope.com/courses/360115'
 footer_content:
 
 # Collections for website data
