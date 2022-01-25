@@ -29,7 +29,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Edstem:
-    - 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+    - 'https://edstem.org/us/courses/15791/discussion/'
   # Gradescope:
   #   - 'https://github.com/kevinlin1/just-the-class'
 footer_content:
