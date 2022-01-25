@@ -14,8 +14,10 @@ seo:
 
 {% if site.announcements %} {{ site.announcements.last }} {% endif %}
 
+<img src="assets/images/frog.jpeg">
 
 "What do you want?"
+
 
 This question is perilous, yet indispensable in life. And it remains vital in designing, understanding, and building systems. How will you check that you've achieved your goal? What is the cost, and which assumptions are you making along the way? Do you really want what you think you do, and will your code (or other artifact) actually work?
 
