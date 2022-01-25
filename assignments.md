@@ -21,7 +21,7 @@ SMT |	April 15, 2022 → April 21, 2022 |
 SAT 2	| April 22, 2022 → April 28, 2022 |
 
 ## Labs
-Labs run on Tuesday-Thursday (Check Staff calendar for timings). 
+Labs run on Tuesday-Thursday (Check [Staff](https://csci1710.github.io/2022/staff/)'s calendar for timings). 
 
 | Lab | Data |
 | ------------- | ------------- |
