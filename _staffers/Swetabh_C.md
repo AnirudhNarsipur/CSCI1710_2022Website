@@ -1,9 +1,10 @@
 ---
 name: Swetabh Changkakoti 
 role: UTA/STA
-# email: me@example.com
+pronouns: he/him/his
+email: schangka@cs.brown.edu
 # website: https://kevinl.info
-# photo: kevin.jpg
+photo: swetabh_c.jpg
 ---
 
-I like teaching Computer Science!
+hello! I really like pine leaves, adrianne lenker, STS twitter, and programming languages. I would love to talk about any of these, SRC (especially in global south contexts), or anything formal methods!
