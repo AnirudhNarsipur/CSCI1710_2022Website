@@ -7,10 +7,10 @@ description: >-
 ---
 
 # Resources
-- Policies
-    * Collaboration Policy
-- Guides
-- Important Links
-    * EdStem
-    * SignMeUp
-    * CS Health & Wellness
+## Policies
+    - Collaboration Policy
+## Guides
+## Important Links
+    - [EdStem](https://edstem.org/us/courses/15791/discussion/)
+    - SignMeUp
+    - CS Health & Wellness
