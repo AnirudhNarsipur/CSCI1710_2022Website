@@ -7,7 +7,8 @@ description: >-
 ---
 
 # Resources
- Policies
+
+* Policies
     - [Collaboration Policy](https://docs.google.com/document/d/1sofVOk581YJRKk3ZiQO7iLciNj4B232lcxT9dO3zD0s/view?usp=sharing)
 * Guides
     - [Installation & Setup](https://docs.google.com/document/d/1uPOgQ90PVUjJK6iVIDcKXBf8DOa7Ri5GYS6QSH5zqWk/view?usp=sharing)
