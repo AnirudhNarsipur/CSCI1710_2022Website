@@ -1,9 +1,10 @@
 ---
 name: Emmie He
 role:  UTA
-# email: me@example.com
+pronouns: she/her/hers
+email: yhe71@cs.brown.edu
 # website: https://kevinl.info
-# photo: kevin.jpg
+photo: emmie_h.jpg
 ---
 
-I like teaching Computer Science!
+I enjoy games like 7 billion humans.
