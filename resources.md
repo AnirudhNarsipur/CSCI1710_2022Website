@@ -19,3 +19,5 @@ description: >-
     - [EdStem](https://edstem.org/us/courses/15791/discussion/)
     - [SignMeUp](https://signmeup.cs.brown.edu/)
     - [CS Health & Wellness](https://browncs-health-and-wellness.github.io)
+
+<img src="assets/images/04.jpg" align="center" width="200">
