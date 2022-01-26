@@ -14,7 +14,7 @@ seo:
 
 {% if site.announcements %} {{ site.announcements.last }} {% endif %}
 
-<img src="https://csci1710.github.io//2022/assets/images/06.jpg" width="200">
+<img src="https://csci1710.github.io//2022/assets/images/06.jpg" align="center" width="400">
 
 "What do you want?"
 
