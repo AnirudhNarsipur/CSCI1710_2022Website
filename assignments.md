@@ -30,6 +30,8 @@ Labs run on Tuesday-Thursday (Check [Staff](https://csci1710.github.io/2022/staf
 | Forge Lab 2 |	February 8, 2022 → February 10, 2022 |
 | To be announced 
 
+<img src="assets/images/07.png", align="center", width="200">
+
 <!-- 
 {% for schedule in site.schedules %}
 {{ schedule }}
