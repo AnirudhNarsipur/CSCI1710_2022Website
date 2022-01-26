@@ -30,6 +30,6 @@ Logic for Systems is built on three broad learning categories:
 
 The course culminates in a student-proposed, staff-mentored project that applies to a real-world system. Past projects have involved everything from distributed hash-tables to baseball games. Prerequisite: CSCI 0160, CSCI 0180, CSCI 0190, or CSCI0200.
 
-The [course syllabus](https://docs.google.com/document/d/1OJIFeb0txsfBKQnD78BGDRx-d2LDnh7SyH8Ejhik96c/edit?usp=sharing) contains important information regarding attendance expectations and academic integrity.
+The [course syllabus](https://docs.google.com/document/d/1OJIFeb0txsfBKQnD78BGDRx-d2LDnh7SyH8Ejhik96c/preview) contains important information regarding attendance expectations and academic integrity.
 
 If you're unsure about whether this is the right course for you check out our [FAQ!](https://docs.google.com/document/d/e/2PACX-1vQek5FgRtgmr7rdxOnq5qzTIaRoVcc0dN4dERg5qu4oJ4hTCAmWJkrBbNWUdm_zsMRtQOmzpG17fWQK/pub)
