@@ -3,7 +3,7 @@ name: Ben Ryjikov
 role:  UTA
 # email: me@example.com
 # website: https://kevinl.info
-# photo: kevin.jpg
+photo: 01.jpg
 ---
 
 I like teaching Computer Science!
