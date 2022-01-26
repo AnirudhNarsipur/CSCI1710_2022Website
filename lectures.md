@@ -11,4 +11,4 @@ Lectures will be hybrid during shopping period. You can either come to CIT 165 o
 {{ module }}
 {% endfor %}
 
-<img src="../assets/images/01.jpg" width="200">
+<img src="https://csci1710.github.io//2022/assets/images/01.jpg" width="200">
