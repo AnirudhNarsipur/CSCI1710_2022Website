@@ -23,7 +23,7 @@ SAT 2	| April 22, 2022 → April 28, 2022 |
 ## Labs
 Labs run on Tuesday-Thursday (Check [Staff](https://csci1710.github.io/2022/staff/)'s calendar for timings). 
 
-| Lab | Data |
+| Lab | Date |
 | ------------- | ------------- |
 | Python | 	January 28, 2022 | 
 | Forge Lab 1 |	February 1, 2022 → February 3, 2022 |
