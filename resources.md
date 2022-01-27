@@ -17,7 +17,7 @@ description: >-
     - [Python Z3](https://docs.google.com/document/d/1ri_-SadZ-IWqrg3ZNY6tJRB_0OSDdwJRYNtdHkSehuc/preview)
 * Important Links
     - [EdStem](https://edstem.org/us/courses/15791/discussion/)
-    - [SignMeUp](https://signmeup.cs.brown.edu/)
+    - [Hours (new version of SignMeUp)](https://hours.cs.brown.edu/)
     - [CS Health & Wellness](https://browncs-health-and-wellness.github.io)
 
 <img src="https://csci1710.github.io//2022/assets/images/04.jpg" align="center" width="200">
