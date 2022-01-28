@@ -9,7 +9,6 @@ The schedule below is tentative and may change.
 
 ## Homeworks
 
-
 | Homework  | Date |
 | ------------- | -------------|
 | PBT	| January 28, 2022 → February 3, 2022 |
@@ -26,7 +25,6 @@ The schedule below is tentative and may change.
 
 ## Projects
 
-
 | Project  | Date |
 | ------------- | ------------- |
 | Curiosity Modeling | February 18, 2022 → March 3, 2022 |
@@ -42,9 +40,8 @@ Labs run Tuesday through Thursday (Check the [Staff](https://csci1710.github.io/
 | Forge Lab 2 |	February 8, 2022 → February 10, 2022 |
 | Forge Relations |	March 1, 2022 → March 3, 2022 |
 | Forge LTL/MC |	March 8, 2022 → March 10, 2022 |
-| To be announced 
 
-## Case studies
+## Case Studies
 Case studies will be completed by groups and will have TA mentors. 
 
 | Case study | Date |
