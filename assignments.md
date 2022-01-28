@@ -31,7 +31,9 @@ Labs run on Tuesday-Thursday (Check [Staff](https://csci1710.github.io/2022/staf
 | Forge Lab 2 |	February 8, 2022 → February 10, 2022 |
 | To be announced 
 
-# Case studies
+## Case studies
+You have three weeks to complete each case study.
+
 | Case study | Date |
 | ------------- | ------------- |
 | Hotel Locking (BSL) | February 11, 2022 → March 3, 2022 |
