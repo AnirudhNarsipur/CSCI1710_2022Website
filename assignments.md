@@ -29,6 +29,8 @@ Labs run on Tuesday-Thursday (Check [Staff](https://csci1710.github.io/2022/staf
 | [Python (optional)](https://docs.google.com/document/d/1xt_kBVyL6Sl-liyvuTFlVLiPYvX-89PcEaSP__-pXMc/preview), [solution](https://drive.google.com/file/d/157n0kpeM4A00_pnwlU8pKaq4INZemedJ/preview) | 	January 28, 2022 | 
 | Forge Lab 1 |	February 1, 2022 → February 3, 2022 |
 | Forge Lab 2 |	February 8, 2022 → February 10, 2022 |
+| Forge Relations |	March 1, 2022 → March 3, 2022 |
+| Forge LTL/MC |	March 8, 2022 → March 10, 2022 |
 | To be announced 
 
 ## Case studies
