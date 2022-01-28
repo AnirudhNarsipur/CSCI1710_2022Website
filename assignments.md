@@ -8,8 +8,10 @@ description: All the assignments
 The schedule below is tentative and may change. 
 
 ## Homeworks
+
+
 | Homework  | Date |
-| ------------- | ------------- |
+| ------------- | -------------|
 | PBT	| January 28, 2022 → February 3, 2022 |
 | Forge 1 | February 4, 2022 → February 10, 2022 |
 | Forge 2 |	February 11, 2022 → February 17, 2022 |
@@ -20,7 +22,11 @@ The schedule below is tentative and may change.
 | SMT |	April 15, 2022 → April 21, 2022 |
 | SAT 2	| April 22, 2022 → April 28, 2022 |
 
+
+
 ## Projects
+
+
 | Project  | Date |
 | ------------- | ------------- |
 | Curiosity Modeling | February 18, 2022 → March 3, 2022 |
