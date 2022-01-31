@@ -15,6 +15,7 @@ description: >-
     - [requirements.txt](https://drive.google.com/file/d/1-HaOMFqOP_Ha6VivZnqN6-1mRYEnrT_j/preview)
     - [Setting up SSH](https://cs.brown.edu/about/system/connecting/ssh/)
     - [Python Z3](https://docs.google.com/document/d/1ri_-SadZ-IWqrg3ZNY6tJRB_0OSDdwJRYNtdHkSehuc/preview)
+    - [Forge Wiki](https://github.com/tnelson/Forge/wiki)
 * Important Links
     - [EdStem](https://edstem.org/us/courses/15791/discussion/)
     - [Hours (new version of SignMeUp)](https://hours.cs.brown.edu/)
