@@ -13,7 +13,7 @@ The schedule below is tentative and may change.
 | ------------- | -------------|
 | [PBT](https://docs.google.com/document/d/1UL5b1v0MToPQr68EENIOh1kzVKjVg8e016rI4xE1FnA/preview)	| January 28, 2022 → February 3, 2022 |
 | [Forge 1](https://docs.google.com/document/d/1_bpjwsvGFZwwT7KSxFm3w_yEorK3wbgZI5FUhVtfak4/preview) | February 4, 2022 → February 11, 2022 |
-| [Forge 2](https://docs.google.com/document/d/1qU45iY7MCrVoPKIeXM29NerneFcYNJJAQfSh1DBsubA/edit?usp=sharing) |	February 12, 2022 → February 18, 2022 |
+| [Forge 2](https://docs.google.com/document/d/1qU45iY7MCrVoPKIeXM29NerneFcYNJJAQfSh1DBsubA/preview) |	February 12, 2022 → February 18, 2022 |
 | Forge 3 |	March 4, 2022 → March 10, 2022 |
 | Model Checking 1  |	March 11, 2022 → March 17, 2022 |
 | Model Checking 2  |	March 18, 2022 → March 24, 2022 |
