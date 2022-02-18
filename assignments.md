@@ -27,7 +27,7 @@ The schedule below is tentative and may change.
 
 | Project  | Date |
 | ------------- | ------------- |
-| Curiosity Modeling | February 18, 2022 → March 3, 2022 |
+| [Curiosity Modeling](https://docs.google.com/document/d/1q-Hx6ruX2x4yqUOqWgvwPqHVu3Hc-OtflA2YskoEYdc/edit?usp=sharing) | February 18, 2022 → March 3, 2022 |
 | Final Project | TBD |
 
 ## Labs
