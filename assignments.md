@@ -46,7 +46,7 @@ Case studies will be completed by groups and will have TA mentors.
 
 | Case study | Date |
 | ------------- | ------------- |
-| Hotel Locking: [Chkpt 1](https://docs.google.com/document/d/1_Yx--lT_WEINnMRW_PtlISmvTkmKxK3PVFrN486J-TU/preview), [Chkpt 2](https://docs.google.com/document/d/1XCw6G9TAgqRbTovD6xGvYZ25yKMY4h-VaNv97vuCCtg/preview) | February 12, 2022 → March 3, 2022 |
+| Hotel Locking: [Chkpt 1](https://docs.google.com/document/d/1_Yx--lT_WEINnMRW_PtlISmvTkmKxK3PVFrN486J-TU/preview), [Chkpt 2](https://docs.google.com/document/d/1XCw6G9TAgqRbTovD6xGvYZ25yKMY4h-VaNv97vuCCtg/preview), [Chkpt 3](https://docs.google.com/document/d/1rM7hsTog1KEPPNMEOwFALYj47HuP9XEznz91xd5xMKo/preview) | February 12, 2022 → March 3, 2022 |
 | Crypto Protocols |  March 4, 2022 → March 24, 2022 |
 
 <img src="https://csci1710.github.io//2022/assets/images/07.jpg" align="center" width="200">
