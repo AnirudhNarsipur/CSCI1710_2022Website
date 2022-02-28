@@ -36,8 +36,8 @@ Labs run Tuesday through Thursday (Check the [Staff](https://csci1710.github.io/
 | Lab | Date |
 | ------------- | ------------- |
 | [Python (optional)](https://docs.google.com/document/d/1xt_kBVyL6Sl-liyvuTFlVLiPYvX-89PcEaSP__-pXMc/preview), [solution](https://drive.google.com/file/d/157n0kpeM4A00_pnwlU8pKaq4INZemedJ/preview) | 	January 28, 2022 | 
-| [Forge Lab 1](https://docs.google.com/document/d/1tyoqJ27Nn_2v73A_xvNAC7AaJTvBnITcEx8lNqsHlRU/preview) |	February 1, 2022 → February 3, 2022 |
-| [Forge Lab 2](https://docs.google.com/document/d/1HnCJpk9rqFPSs_YUUVvqSjfAghZZ-WGQ3oZZHPIeju0/preview) |	February 7, 2022 → February 10, 2022 |
+| [Forge Lab 1: n-Queens](https://docs.google.com/document/d/1tyoqJ27Nn_2v73A_xvNAC7AaJTvBnITcEx8lNqsHlRU/preview) |	February 1, 2022 → February 3, 2022 |
+| [Forge Lab 2: Ring Election](https://docs.google.com/document/d/1HnCJpk9rqFPSs_YUUVvqSjfAghZZ-WGQ3oZZHPIeju0/preview) |	February 7, 2022 → February 10, 2022 |
 | [Forge Lab 3: Memory Management](https://docs.google.com/document/d/1IYWrzn4i5bo6TfmSgDyiczYWQX_pIziQbnFeRfTjOSs/preview) |	February 28, 2022 → March 3, 2022 |
 | Forge LTL/MC |	March 7, 2022 → March 10, 2022 |
 
