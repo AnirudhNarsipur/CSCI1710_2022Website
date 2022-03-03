@@ -36,9 +36,9 @@ Labs run Tuesday through Thursday (Check the [Staff](https://csci1710.github.io/
 | Lab | Date |
 | ------------- | ------------- |
 | [Python (optional)](https://docs.google.com/document/d/1xt_kBVyL6Sl-liyvuTFlVLiPYvX-89PcEaSP__-pXMc/preview), [solution](https://drive.google.com/file/d/157n0kpeM4A00_pnwlU8pKaq4INZemedJ/preview) | 	January 28, 2022 | 
-| [Forge Lab 1](https://docs.google.com/document/d/1tyoqJ27Nn_2v73A_xvNAC7AaJTvBnITcEx8lNqsHlRU/preview) |	February 1, 2022 → February 3, 2022 |
-| [Forge Lab 2](https://docs.google.com/document/d/1HnCJpk9rqFPSs_YUUVvqSjfAghZZ-WGQ3oZZHPIeju0/preview) |	February 7, 2022 → February 10, 2022 |
-| Forge Relations |	February 28, 2022 → March 3, 2022 |
+| [Forge Lab 1: n-Queens](https://docs.google.com/document/d/1tyoqJ27Nn_2v73A_xvNAC7AaJTvBnITcEx8lNqsHlRU/preview) |	February 1, 2022 → February 3, 2022 |
+| [Forge Lab 2: Ring Election](https://docs.google.com/document/d/1HnCJpk9rqFPSs_YUUVvqSjfAghZZ-WGQ3oZZHPIeju0/preview) |	February 7, 2022 → February 10, 2022 |
+| [Forge Lab 3: Memory Management](https://docs.google.com/document/d/1IYWrzn4i5bo6TfmSgDyiczYWQX_pIziQbnFeRfTjOSs/preview) |	February 28, 2022 → March 3, 2022 |
 | Forge LTL/MC |	March 7, 2022 → March 10, 2022 |
 
 ## Case Studies
@@ -46,7 +46,7 @@ Case studies will be completed by groups and will have TA mentors.
 
 | Case study | Date |
 | ------------- | ------------- |
-| Hotel Locking: [Chkpt 1](https://docs.google.com/document/d/1_Yx--lT_WEINnMRW_PtlISmvTkmKxK3PVFrN486J-TU/preview), [Chkpt 2](https://docs.google.com/document/d/1XCw6G9TAgqRbTovD6xGvYZ25yKMY4h-VaNv97vuCCtg/preview) | February 12, 2022 → March 3, 2022 |
+| Hotel Locking: [Chkpt 1](https://docs.google.com/document/d/1_Yx--lT_WEINnMRW_PtlISmvTkmKxK3PVFrN486J-TU/preview), [Chkpt 2](https://docs.google.com/document/d/1XCw6G9TAgqRbTovD6xGvYZ25yKMY4h-VaNv97vuCCtg/preview), [Chkpt 3](https://docs.google.com/document/d/1rM7hsTog1KEPPNMEOwFALYj47HuP9XEznz91xd5xMKo/preview) | February 12, 2022 → March 6, 2022 |
 | Crypto Protocols |  March 4, 2022 → March 24, 2022 |
 
 <img src="https://csci1710.github.io//2022/assets/images/07.jpg" align="center" width="200">
