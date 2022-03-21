@@ -28,11 +28,12 @@ The schedule below is tentative and may change.
 | Project  | Date |
 | ------------- | ------------- |
 | [Curiosity Modeling](https://docs.google.com/document/d/1q-Hx6ruX2x4yqUOqWgvwPqHVu3Hc-OtflA2YskoEYdc/preview) | February 18, 2022 → March 3, 2022 |
-| Final Project | Proposal: April 6, 2022 |
-|  | Design Check 1: April 21, 2022 |
-|  | Design Check 2: TBD |
-|  | Code submission: May 12, 2022 |
-|  | Presentation: May 13, 2022 → May 19, 2022 |
+| Final Project |  |
+| - Proposal | April 6, 2022 |
+| - Design Check 1 | April 21, 2022 |
+| - Design Check 2 | TBD |
+| - Code submission | May 12, 2022 |
+| - Presentation | May 13, 2022 → May 19, 2022 |
 
 ## Labs
 Labs run Tuesday through Thursday (Check the [Staff](https://csci1710.github.io/2022/staff/) calendar for timings). 
