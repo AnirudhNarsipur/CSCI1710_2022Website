@@ -16,7 +16,7 @@ The schedule below is tentative and may change.
 | [Forge 2](https://docs.google.com/document/d/1qU45iY7MCrVoPKIeXM29NerneFcYNJJAQfSh1DBsubA/preview) |	February 12, 2022 → February 18, 2022 |
 | [Forge 3](https://docs.google.com/document/d/1YP5eMLpUSHvTQ6B3OkNR1p5ZFk1nmuIDZPfs8t6HdXg/preview) |	March 4, 2022 → March 10, 2022 |
 | [Model Checking 1](https://docs.google.com/document/d/1tscbHtaLMkJnlrDRh3T_XHcSHjzyGR6e8-3zfcusA4Q/preview)  |	March 11, 2022 → March 17, 2022 |
-| [Model Checking 2](https://docs.google.com/document/d/1bP0z4MC_D9n7c0PYDVbubjEmvTxk_jSeQeJuSa6QnNo/preview)  |	March 18, 2022 → March 24, 2022 |
+| [Model Checking 2](https://docs.google.com/document/d/1bP0z4MC_D9n7c0PYDVbubjEmvTxk_jSeQeJuSa6QnNo/preview)  |	March 18, 2022 → March 25, 2022 |
 | SAT 1 |	April 8, 2022 → April 14, 2022 |
 | SMT |	April 15, 2022 → April 21, 2022 |
 | SAT 2	| April 22, 2022 → April 28, 2022 |
