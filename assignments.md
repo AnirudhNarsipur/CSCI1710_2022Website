@@ -28,7 +28,7 @@ The schedule below is tentative and may change.
 | Project  | Date |
 | ------------- | ------------- |
 | [Curiosity Modeling](https://docs.google.com/document/d/1q-Hx6ruX2x4yqUOqWgvwPqHVu3Hc-OtflA2YskoEYdc/preview) | February 18, 2022 → March 3, 2022 |
-| Final Project |  |
+| [Final Project](https://docs.google.com/document/d/1nQ-TvxySZX0YbxpOG-HSGE1R7iduHDMfxt9OG1xSfyc/edit?usp=sharing) |  |
 | - Proposal | April 6, 2022 |
 | - Design Check 1 | April 21, 2022 |
 | - Design Check 2 | TBD |
