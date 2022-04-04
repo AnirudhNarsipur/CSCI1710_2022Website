@@ -2,6 +2,6 @@
 title: Week 11
 ---
 
-- Apr 4 : Satisfiability Solving : [Notes](https://hackmd.io/@lfs/rkml6OvXc), [Recording](#)
-- Apr 6 :  : [Notes](#), [Recording](#)
+- Apr 4 : Satisfiability Solving : [Notes](https://hackmd.io/@lfs/rkml6OvXc), [Recording](https://brown.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f672487e-7591-4c4b-a737-ae2900f64698)
+- Apr 6 :  : [Recording](#)
 - Apr 8 :  : [Notes](#), [Recording](#)
