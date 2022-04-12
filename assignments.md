@@ -30,8 +30,8 @@ The schedule below is tentative and may change.
 | [Curiosity Modeling](https://docs.google.com/document/d/1q-Hx6ruX2x4yqUOqWgvwPqHVu3Hc-OtflA2YskoEYdc/preview) | February 18, 2022 → March 3, 2022 |
 | [Final Project](https://docs.google.com/document/d/1nQ-TvxySZX0YbxpOG-HSGE1R7iduHDMfxt9OG1xSfyc/preview) |  |
 | - Proposal | April 6, 2022 |
-| - Design Check 1 | April 21, 2022 |
-| - Design Check 2 | TBD |
+| - Design Check 1 | April 21, 2022 (3 weeks from due date) |
+| - Design Check 2 | May 5, 2022 (1 week from the due date) |
 | - Code submission | May 12, 2022 |
 | - Presentation | May 13, 2022 → May 19, 2022 |
 
