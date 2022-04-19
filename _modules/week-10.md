@@ -2,6 +2,4 @@
 title: Week 10
 ---
 
-- Mar 28 : Spring break
-- Mar 30 : Spring break
-- Apr 1 : Spring break
+- Mar 28, Mar 30, Apr 1 : Spring break
